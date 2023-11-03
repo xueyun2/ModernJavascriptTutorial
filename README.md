@@ -1,5 +1,5 @@
-# 现代 JavaScript 教程
+# 1. 现代 JavaScript 教程
 
 文档地址：<https://zh.javascript.info/>
 
-[JavaScript基础知识](./JavaScript基础知识/README.md)
+## 1.1. [JavaScript基础知识](./JavaScript基础知识/README.md)
